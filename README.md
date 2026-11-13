@@ -22,6 +22,6 @@ Follow the on-screen menu prompts:
 *  4 — Quit the program
 
 ## Important Notes
-* Key Length: Your key must be at least the same length (in characters/bytes) as the message you are encrypting.
+* Key Length: Your key must be at least the same length (in characters) as the message you are encrypting.
 * True Randomness: For a Vernam cipher to be truly secure, the key must be completely random, shared securely in person, and destroyed immediately after use.
 * Character Encoding: Because XOR operations on ASCII characters can produce non-printable control characters, copying and pasting ciphertext directly into some terminals may behave unexpectedly depending on your console's encoding.
