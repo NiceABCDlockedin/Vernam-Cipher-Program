@@ -16,10 +16,10 @@
 ```python "vernam cipher.py"```
 
 * Follow the on-screen menu prompts:
-  1 — Encrypt a message
-  2 — Decrypt a message
-  3 — View program description and cipher theory
-  4 — Quit the program
+*  1 — Encrypt a message
+*  2 — Decrypt a message
+*  3 — View program description and cipher theory
+*  4 — Quit the program
 
 ## Important Notes
 * Key Length: Your key must be at least the same length (in characters/bytes) as the message you are encrypting.
