@@ -15,7 +15,7 @@
 * Run the script in your terminal:
 ```python "vernam cipher.py"```
 
-* Follow the on-screen menu prompts:
+Follow the on-screen menu prompts:
 *  1 — Encrypt a message
 *  2 — Decrypt a message
 *  3 — View program description and cipher theory
