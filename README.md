@@ -6,7 +6,7 @@
 * Decrypt Messages: Reverses the XOR encryption to recover the original plaintext using the exact encryption key.
 * Built-in Guide: Includes an interactive description explaining how the Vernam cipher works and the rules required to keep it mathematically unbreakable.
 
-##Requirements
+## Requirements
 * Python 3.x (No external libraries required)
 
 ## Usage
